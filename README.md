@@ -44,6 +44,10 @@ La aplicación está desplegada en **Streamlit Community Cloud** y puedes accede
 
 🔗 [https://reto-qubika.streamlit.app](https://reto-qubika.streamlit.app)
 
+En el despliegue anterior no es posible apreciar el audio generado por políticas de Eleven Labs por lo tanto en el siguiente video se puede apreciar como debería ser su funcionamiento normal:
+
+[https://youtu.be/QFC7uTfGbbU](https://youtu.be/QFC7uTfGbbU)
+
 ---
 
 ## **Cómo Usar la Aplicación**
